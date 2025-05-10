@@ -29,7 +29,6 @@ def show_tasks(csv_path):
     except KeyError:
         print("Error: The CSV file must contain the columns 'tasks' and 'status'.")
 
-# Use o caminho para seu arquivo CSV
 show_tasks('tasks.csv')
 
 print(f"That's all for today. Thanks, {user_name}")
