@@ -11,3 +11,5 @@ Day 4: Task List (CSV file): complementary features added (show analytics and ra
 
 Day 5: Password generator
 
+Day 6: Currency converter using an API (Exchange-rate API)
+
