@@ -14,3 +14,6 @@ Day 5: Password generator
 Day 6: Currency converter using an API (Exchange-rate API)
 
 Day 7: Hangman (word guessing) game using the console.
+
+Day 8: Tech News Scraper: Automated technology news gathering.
+
