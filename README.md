@@ -19,4 +19,6 @@ Day 8: Tech News Scraper: Automated technology news gathering.
 
 Day 9: Simple market system (Python objects manipulation practice)
 
-Day 10: RPG inventory system
+Day 10: RPG inventory system.
+
+Day 11: Simplified Blackjack game.
