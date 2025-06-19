@@ -22,3 +22,5 @@ Day 9: Simple market system (Python objects manipulation practice)
 Day 10: RPG inventory system.
 
 Day 11: Simplified Blackjack game.
+
+Day 12: Page scrapper (for videos)
